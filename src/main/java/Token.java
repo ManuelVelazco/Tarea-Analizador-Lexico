@@ -22,9 +22,7 @@ public class Token {
         else return 'f';
     }
     
-    public void atras(){
-        linea--;
-    }
+   
    
     public Integer getLinea() {
         return linea;
